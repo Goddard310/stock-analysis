@@ -1,5 +1,5 @@
 # Green Stocks Analysis
-&nbsp;###See VBA_Challenge.xlsm
+&nbsp;See VBA_Challenge.xlsm
 
 ## Overview of Project
 Steve's parents would like to invest in companies whose missions align with their own personal ideals.  We're going to try to diversify their portfolio to keep with their priorities but maximize gains.   
